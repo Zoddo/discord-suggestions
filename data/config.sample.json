@@ -1,0 +1,11 @@
+{
+  "owners": [
+    "YOUR_DISCORD_ID",
+    "ANOTHER_DISCORD_ID"
+  ],
+  "invite": null,
+  "prefix": "suggestion",
+  "token": "YOUR BOT TOKEN",
+  "dbots_token": null,
+  "log_channel": "YOUR_DISCORD_LOG_CHANNEL_ID"
+}

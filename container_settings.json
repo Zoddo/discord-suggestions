@@ -1,0 +1,7 @@
+{
+  "HostConfig" : {
+    "RestartPolicy" : {
+      "Name" : "unless-stopped"
+    }
+  }
+}
