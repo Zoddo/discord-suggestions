@@ -21,7 +21,7 @@ class AddCommand extends Commando.Command {
                     prompt: 'What is the title of your suggestion?',
                     type: 'string',
                     min: 4,
-                    max: 25,
+                    max: 50,
                     wait: 60
                 },
                 {
