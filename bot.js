@@ -18,7 +18,7 @@ const bot = new Commando.Client({
     commandPrefix: config.prefix,
     unknownCommandResponse: false,
     disableEveryone: true,
-    invite: config.inhmvite,
+    invite: config.invite,
     disabledEvents: [
         Discord.Constants.Events.PRESENCE_UPDATE,
         Discord.Constants.Events.TYPING_START,
